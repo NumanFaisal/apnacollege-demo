@@ -1,2 +1,3 @@
 This is my first Git Repository
-Author - Numan Faisal
+<br>
+Author - Numan (Apna college)
